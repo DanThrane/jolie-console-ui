@@ -1,0 +1,13 @@
+{
+  "private": false,
+  "name": "ConsoleUI",
+  "description": "A small utility library for implementing a console UI in Jolie.",
+  "source": {
+    "module": "DanThrane/jolie-console-ui"
+  },
+  "version": {
+    "patch": 0,
+    "major": 0,
+    "minor": 1
+  }
+}
